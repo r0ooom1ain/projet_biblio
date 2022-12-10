@@ -9,6 +9,17 @@ body{
     background-color: rgb(160, 160, 244);
 }
 
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(58, 58, 67);
+    border-radius: 30px;
+    margin: auto;
+    color: white;
+}
+
 .navbar{
     display: flex;
     align-items: center;
@@ -71,15 +82,20 @@ nav{
 .row-2{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 .col-3{
-    flex-basis: 350px;
+    flex-basis: 500px;
     padding: 20px;
     background-color: rgb(58, 58, 67);
     border-radius: 30px;
     margin-top: 25px;
     color: white;
+}
+
+.col-3 p{
+    margin-bottom: 30px;
 }
 
 /* Zoom d'une image */
