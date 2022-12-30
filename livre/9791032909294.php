@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style/style.css">
+    <title>Le voyant d’étampes</title>
+</head>
+<body>
+    <div class="container">
+        <header class="navbar">
+            <div class="logo">
+                <a href="../index.php"><p>Book <img src="../img/logo_biblio.png" alt="Book Dudes"> Dudes</p></a>
+            </div>
+        </header>
+
+        <div class="row-2">
+            <div class="col-2">
+                <img src="../img/9791032909294.png" alt="">
+            </div>
+            <div class="col-3">
+                <p> <u>Titre</u> : Le voyant d’étampes</p>
+                <p> <u>Auteur</u> : Abel Quentin</p>
+                <p> <u>Genres</u> : Roman</p>
+                <p> <u>ISBN</u> : 9791032909294</p>
+
+                <p> <u>Résumé</u> : "J'allais conjurer le sort, le mauvais oeil qui me collait le train depuis près de trente ans. 
+                                    Le Voyant d'Étampes serait ma renaissance et le premier jour de ma nouvelle vie. 
+                                    J'allais recaver une dernière fois, me refaire sur un registre plus confidentiel, 
+                                    mais moins dangereux." Universitaire alcoolique et fraîchement retraité, 
+                                    Jean Roscoff se lance dans l'écriture d'un livre pour se remettre en selle : Le voyant d'Étampes, 
+                                    essai sur un poète américain méconnu qui se tua au volant dans l'Essonne, au début des années 60. 
+                                    A priori, pas de quoi déchaîner la critique. Mais si son sujet était piégé ? Abel Quentin raconte 
+                                    la chute d'un anti-héros romantique et cynique, à l'ère des réseaux sociaux et des dérives identitaires. 
+                                    Et dresse, avec un humour délicieusement acide, le portrait d'une génération.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>Bibliothèque du groupe N°12 :</p>
+            <p>Lebrave Dwain</p>
+            <p>Liénard Romain</p>
+        </div>
+        <div class="footer-cgu">
+            <p>&copy; IPSSI 24.1 Marne la Vallée</p>
+        </div>
+    </footer>
+</body>
+</html>

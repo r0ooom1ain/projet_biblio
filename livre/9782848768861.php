@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style/style.css">
+    <title>La plus secrète des mémoires des hommes</title>
+</head>
+<body>
+    <div class="container">
+        <header class="navbar">
+            <div class="logo">
+                <a href="../index.php"><p>Book <img src="../img/logo_biblio.png" alt="Book Dudes"> Dudes</p></a>
+            </div>
+        </header>
+
+        <div class="row-2">
+            <div class="col-2">
+                <img src="../img/9782848768861.png" alt="">
+            </div>
+            <div class="col-3">
+                <p> <u>Titre</u> : La plus secrète des mémoires des hommes</p>
+                <p> <u>Auteur</u> : Mohamed Mbougar Sarr</p>
+                <p> <u>Genres</u> : Roman</p>
+                <p> <u>ISBN</u> : 9782848768861</p>
+
+                <p> <u>Résumé</u> : En 2018, Diégane Latyr Faye, jeune écrivain sénégalais, découvre à Paris un livre mythique, 
+                                    paru en 1938 : Le labyrinthe de l’inhumain. On a perdu la trace de son auteur, qualifié 
+                                    en son temps de « Rimbaud nègre », depuis le scandale que déclencha la parution de son texte. 
+                                    Diégane s’engage alors, fasciné, sur la piste du mystérieux T.C. Elimane, se confrontant 
+                                    aux grandes tragédies que sont le colonialisme ou la Shoah. Du Sénégal à la France en passant par l’Argentine, 
+                                    quelle vérité l’attend au centre de ce labyrinthe ? Sans jamais perdre le fil de cette quête qui l’accapare, 
+                                    Diégane, à Paris, fréquente un groupe de jeunes auteurs africains : tous s’observent, discutent, boivent, 
+                                    font beaucoup l’amour, et s’interrogent sur la nécessité de la création à partir de l’exil. 
+                                    Il va surtout s’attacher à deux femmes : la sulfureuse Siga, détentrice de secrets, et la fugace photojournaliste Aïda… 
+                                    D’une perpétuelle inventivité, La plus secrète mémoire des hommes est un roman étourdissant, 
+                                    dominé par l’exigence du choix entre l’écriture et la vie, ou encore par le désir de dépasser 
+                                    la question du face-à-face entre Afrique et Occident. Il est surtout un chant d’amour à la 
+                                    littérature et à son pouvoir intemporel.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>Bibliothèque du groupe N°12 :</p>
+            <p>Lebrave Dwain</p>
+            <p>Liénard Romain</p>
+        </div>
+        <div class="footer-cgu">
+            <p>&copy; IPSSI 24.1 Marne la Vallée</p>
+        </div>
+    </footer>
+</body>
+</html>
